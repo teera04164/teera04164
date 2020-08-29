@@ -54,14 +54,13 @@
   <img src="https://img.stackshare.io/service/2237/757747.png" alt="mysql" width="40" height="40"/> 
     <img src="https://img.stackshare.io/service/1052/YMxUfyWf.png" alt="mysql" width="40" height="40"/> 
  </p>
- h4>Cloud</h4>
+ <h4>Cloud</h4>
 <p align="left"> 
   <img src="https://img.stackshare.io/service/133/3wgIDj3j.png" alt="docker" width="40" height="40"/> 
   <img src="https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg" alt="Kubernetes" width="40" height="40"/> 
   <img src="https://img.stackshare.io/service/25/amazon-s3.png" alt="Jenkins" width="40" height="40"/> 
   <img src="https://img.stackshare.io/service/2748/lV55uZMx.png" alt="react" width="40" height="40"/>
   <img src="https://img.stackshare.io/service/3069/PBnd8yDL_400x400.jpg" alt="mysql" width="40" height="40"/> 
-    <img src="https://img.stackshare.io/service/1052/YMxUfyWf.png" alt="mysql" width="40" height="40"/> 
  </p>
 <p align = 'center'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
