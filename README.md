@@ -39,6 +39,8 @@
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
+  <img src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png" width="40" height="40" />
+  
  </p>
   <h4>DevOps</h4>
 <p align="left"> 
