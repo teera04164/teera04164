@@ -48,12 +48,12 @@
  </p>
   <h4>DevOps</h4>
 <p align="left"> 
-  <img src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
+  <img src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png" alt="docker" width="40" height="40"/> 
+  <img src="https://img.stackshare.io/service/1885/21_d3cvM.png" alt="Kubernetes" width="40" height="40"/> 
+  <img src="https://img.stackshare.io/service/670/jenkins.png" alt="Jenkins" width="40" height="40"/> 
+  <img src="https://img.stackshare.io/service/1046/git.png" alt="react" width="40" height="40"/>
+  <img src="https://img.stackshare.io/service/2237/757747.png" alt="mysql" width="40" height="40"/> 
+ <img src="https://img.stackshare.io/service/1599/sourcetree.png" width="40" height="40" alt="nodejs" /> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
  </p>
 <p align = 'center'> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
