@@ -35,7 +35,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    <img src="https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg" alt="react" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src=" https://img.stackshare.io/service/4074/13142323.pngg" alt="react" width="40" height="40"/>
+  <img src=" https://img.stackshare.io/service/4074/13142323.png" alt="react" width="40" height="40"/>
  
  </p>
  <h4>Back-end</h4>
