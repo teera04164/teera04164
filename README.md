@@ -37,9 +37,8 @@
  </p>
  <h4>Back-end</h4>
 <p align="left"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://img.stackshare.io/service/1599/sourcetree.png" width="40" height="40" alt="nodejs" /> 
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
  </p>
   <h4>DevOps</h4>
 <p align="left"> 
