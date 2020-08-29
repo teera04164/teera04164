@@ -2,23 +2,23 @@
 ![](https://komarev.com/ghpvc/?username=teera04164)
 
 <a href="https://twitter.com/teera04164">
-  <img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+  <img align="left" alt="Teerapong | Twitter" width="21px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://www.hackerrank.com/teera04164/">
-<img align="left" alt="Mihir Gupta | Twitter" width="21px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
+<img align="left" alt="Teerapong | Twitter" width="21px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
 </a>
 <a href="https://linkedin.com/in/teera04164">
- <img  align="left" alt="Mihir Gupta | Linkedin" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
+ <img  align="left" alt="Teerapong | Linkedin" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/mihir.gupta.7965/">
- <img align="left" alt="Mihir Gupta | Facebook" width="21px" src="https://img.icons8.com/fluent/64/000000/facebook-new.png" />
+ <img align="left" alt="Teerapong | Facebook" width="21px" src="https://img.icons8.com/fluent/64/000000/facebook-new.png" />
 </a>
 <a href="https://www.instagram/mihir_gupta_1/">
- <img align="left" alt="Mihir Gupta | Facebook" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
+ <img align="left" alt="Teerapong | Facebook" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>
 </a>
 <br />
 <br />
-<h4>Hi, I'm Mihir Gupta, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h4>
+<h4>Hi, I'm Teerapong, a passionate self-taught <strong>MERN Stack developer</strong> and a <strong>Competitive Programming Enthusiast</strong>.</h4>
 <br/>
 - 🔭 I’m currently working on a private repository.<br/>
 <br />
