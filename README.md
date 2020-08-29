@@ -7,10 +7,10 @@
 <a href="https://www.hackerrank.com/teera04164/">
 <img align="left" alt="Teerapong | Twitter" width="21px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />
 </a>
-<a href="https://linkedin.com/in/teera04164">
+<a href="https://linkedin.com/in/teerapong-sittikar-b6478719a">
  <img  align="left" alt="Teerapong | Linkedin" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
-<a href="https://www.facebook.com/mihir.gupta.7965/">
+<a href="https://web.facebook.com/teerapong.sittigar/">
  <img align="left" alt="Teerapong | Facebook" width="21px" src="https://img.icons8.com/fluent/64/000000/facebook-new.png" />
 </a>
 <a href="https://www.instagram/mihir_gupta_1/">
