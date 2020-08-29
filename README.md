@@ -37,7 +37,7 @@
  </p>
  <h4>Back-end</h4>
 <p align="left"> 
-<img src="https://img.stackshare.io/service/1599/sourcetree.png" width="40" height="40" alt="nodejs" /> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40" alt="nodejs" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" />
  </p>
   <h4>DevOps</h4>
