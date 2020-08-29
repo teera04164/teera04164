@@ -1,4 +1,4 @@
-### Hi there, I'm [Mihir!](https://github.com/teera04164) 👋
+### Hi there, I'm [TEERA!](https://github.com/teera04164) 👋
 ![](https://komarev.com/ghpvc/?username=teera04164)
 
 <a href="https://twitter.com/teera04164">
@@ -40,22 +40,3 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=teera04164&layout=compact&theme=radical" />
 </a>
-
-
-
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teera04164&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**teera04164/teera04164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
