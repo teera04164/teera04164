@@ -28,6 +28,7 @@
 <br />
 - Tea :coffee: is my drug
 <h3>Tech Stack</h3>
+<h4>Front-end</h4>
 <p align="left"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
